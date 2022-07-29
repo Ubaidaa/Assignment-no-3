@@ -1,0 +1,25 @@
+.bg-custom-primary{
+    background-color: #289BDE;
+}
+.text-custom-primary{
+    color: #289BDE;
+}
+.custom-btn{
+    background-color: #289BDE;
+    border-color: #289BDE;
+}
+.custom-button-outline{
+    color:rgb(255, 255, 255);
+    background-color: #16b8f8;
+    border-color: #289BDE;
+}
+
+.carousel-text{
+    height: 270px;
+    font-weight: 500;
+    text-shadow: 2px 2px 5px rgb(151, 146, 146);
+}
+#badge{
+    width: 40px;
+    height: 40px;
+}
